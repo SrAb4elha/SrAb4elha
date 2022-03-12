@@ -6,7 +6,7 @@
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 Minhas Linguas
 
 <code><img height="32" src="https://img2.gratispng.com/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-5b8e9698822d99.0636011515360713205332.jpg" alt="Php"/></code>
 <code><img height="32" src="https://avatars.githubusercontent.com/u/3150836?s=280&v=4" alt="PocketMine"/></code>
@@ -15,8 +15,6 @@
 
 <div> 
   <a href="https://www.youtube.com/channel/UCbTdJoLG7aoFdUorkpKFWcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
-  <a href="https://discord.gg/EarbkNQWtc" target="_blank"><img src="https://seeklogo.com/images/D/discord-logo-855AEC93F1-seeklogo.com.png" target="_blank"></a>
 
 </div>
 
