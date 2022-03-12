@@ -14,7 +14,7 @@
 ---
 
 <div> 
-  ## Meu canal do Youtube
+## Meu canal do Youtube
   <a href="https://www.youtube.com/channel/UCbTdJoLG7aoFdUorkpKFWcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 </div>
