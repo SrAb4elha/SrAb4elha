@@ -13,5 +13,11 @@
 
 ---
 
+<div> 
+  ## Meu canal do Youtube
+  <a href="https://www.youtube.com/channel/UCbTdJoLG7aoFdUorkpKFWcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+</div>
+
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrAb4elha&show_icons=true)
