@@ -1,8 +1,8 @@
-## 💜 Olá, meu nome é <strong>{Sr abelha}!</strong>
+## 💜 Olá, meu nome é <strong>Sr abelha!</strong>
 
-> Ola Eu sou Developer de plugins pocketmine iniciante para 0.14.x & 0.15.10
+> Ola Eu sou Sr abelha
 
-🔭 Estou trabalhando em plugins pocketmine
+🔭 Estou remakezando plugins pocketmine
 
 ----
 
